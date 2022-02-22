@@ -36,6 +36,7 @@
 .btn-primary {
   background-color: #2abfff;
   border-color: #2abfff;
+  min-width: 130px;
 }
 
 .bg-primary {
@@ -48,6 +49,10 @@
 
 .font-18 {
   font-size: 18px;
+}
+
+.font-22 {
+  font-size: 22px;
 }
 
 .left-image {
@@ -78,6 +83,20 @@
   text-align: right;
 }
 
+.currency-select {
+  min-width: 110px;
+  background-color: #16171b;
+  color: white;
+  text-align: right;
+  border: 1px solid #2abfff;
+  text-align: center;
+  box-shadow: 0 0 10px 10px rgb(23 162 184 / 15%);
+}
+
 .width-60 {
   min-width: 60px;
+}
+
+.width-20 {
+  min-width: 20px;
 }
